@@ -2,9 +2,9 @@
   <img src="https://github.com/IssanPy/Customized-git-/blob/main/Screenshot%202025-10-22%20192309.png" />
 </p>
 <!--QUOTE-BEGIN-->
-> Ship small, learn very fast
+> Automate tests, reduce human error
 
-*Updated: 2025-11-03 UTC*
+*Updated: 2025-11-04 UTC*
 <!--QUOTE-END-->
 
 <h1 align="center">Hi 👋, I'm Issan Panda</h1>
