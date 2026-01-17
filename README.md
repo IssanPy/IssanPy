@@ -2,9 +2,9 @@
   <img src="https://github.com/IssanPy/Customized-git-/blob/main/Screenshot%202025-10-22%20192309.png" />
 </p>
 <!--QUOTE-BEGIN-->
-> Secure defaults protect user data
+> Write docs, save future you
 
-*Updated: 2026-01-16 UTC*
+*Updated: 2026-01-17 UTC*
 <!--QUOTE-END-->
 
 <h1 align="center">Hi 👋, I'm Issan Panda</h1>
