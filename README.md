@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/IssanPy/Customized-git-/blob/main/Screenshot%202025-10-22%20192309.png" />
+  <img src="https://raw.githubusercontent.com/IssanPy/Customized-git-/main/matrix.gif" width="100%">
 </p>
 <!--QUOTE-BEGIN-->
 > Secure defaults protect user data
