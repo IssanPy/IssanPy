@@ -8,22 +8,20 @@
 <!--QUOTE-END-->
 
 <h1 align="center">Hi 👋, I'm Issan Panda</h1>
-<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Tech Lead</h3>
+<h3 align="center"> Ethical hacker | Full-stack engineer | Tech Lead</h3>
 <img align ="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=issanpy&label=Profile%20views&color=0e75b6&style=flat" alt="issanpy" /> </p>
 
 - 🔭 I’m currently working on **PandasHat(PandasHat is a cybersecurity project focused on detecting, analyzing, and mitigating real-time threats using automation and intelligent monitoring.**
 
-- 🌱 I’m currently learning **Burp Suite, Metasploit, Nmap, Docker and Kubernetes**
+- 🌱 I master network security, binary exploitation, web vulnerabilities, pro in XSS,SQLi, command injection, security audits and reverse engineering. As a full stack developer, I blend cryptography with steganography to protect data before it becomes a target.**
 
 - 👨‍💻 All of my projects are available at [https://issanpy.github.io/issanpanda.github.io/](https://issanpy.github.io/issanpanda.github.io/)
 
-- 💬 Ask me about **hacking logic, web exploits, creative code, and turning wild tech ideas into reality.**
+- 💬 Ask me about **hacking logic, logic mapping and exploits, creative code, and turning wild tech ideas into reality.**
 
 - 📫 How to reach me **issanpanda@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IYVk95CYkseLw35Hsa1GdCXUbBzCjgq9/view?usp=sharing](https://drive.google.com/file/d/1IYVk95CYkseLw35Hsa1GdCXUbBzCjgq9/view?usp=sharing)
 
 - ⚡ Fun fact **You can’t hum while holding your nose closed.**
 
